@@ -1,5 +1,5 @@
 {
-  "name": "applescript",
+  "name": "kd-applescript",
   "description": "Easily execute arbitrary AppleScript code on macOS through Node.js.",
   "version": "1.0.0",
   "author": "Nathan Rajlich <nathan@tootallnate.net>",
